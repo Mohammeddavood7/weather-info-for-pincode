@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "openweathermap.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openweathermap.api.key'"
+  },
+  {
+    "name": "google.geocoding.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'google.geocoding.api.key'"
+  }
+]}
